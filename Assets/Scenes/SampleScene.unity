@@ -647,6 +647,7 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1344586642
+--- !u!1 &1811889661
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -656,6 +657,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1344586644}
   - component: {fileID: 1344586643}
+  - component: {fileID: 1811889664}
+  - component: {fileID: 1811889663}
+  - component: {fileID: 1811889662}
   m_Layer: 0
   m_Name: Tree 2_0
   m_TagString: Untagged
@@ -1008,3 +1012,5 @@ SceneRoots:
   - {fileID: 1336165899}
   - {fileID: 973374190}
   - {fileID: 76697687}
+  - {fileID: 1811889664}
+  - {fileID: 151270992}
